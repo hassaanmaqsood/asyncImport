@@ -17,9 +17,5 @@
   "repository": {
     "type": "git",
     "url": "htts://github.com/hassaanmaqsood/asyncImport.git"
-  },
-  "dependencies": {
-    "vm": "^0.1.0",
-    "https": "^0.1.0"
-  },
+  }
 }
