@@ -1,0 +1,17 @@
+{
+  "name": "import-mod",
+  "version": "1.0.0",
+  "description": "A simple package to import modules and functions from CDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "import",
+    "require",
+    "cdn"
+  ],
+  "author": "Hassaan Maqsood",
+  "license": "MIT"
+}
